@@ -11,10 +11,13 @@ Library deletion requires the app confirmation and then Android system confirmat
 The app provides English, Russian, Kazakh, Spanish, French and German, along with system language, light/dark themes, haptics and reduced-motion settings. It stores identifiers and decisions in app-private preferences rather than image contents. Images are loaded with Coil. There is no network permission; the GitHub link opens in an external browser. Debug builds are signed with the local debug key and are for local testing, not store distribution.
 
 
-## Screenshot
+## Screenshots
 
-![Welcome screen in Kazakh](screenshots/welcome-kk.png)
+| Welcome | Settings | Statistics |
+|:--:|:--:|:--:|
+| ![Welcome screen](screenshots/welcome-en.png) | ![Settings](screenshots/settings-en.png) | ![Statistics](screenshots/statistics-en.png) |
 
 ## Download
 
-[Download the debug APK](downloads/Swipe-Gallery-Cleaner-v2.apk)
+[Download the debug APK from Releases](https://github.com/mnerst1/swipe-gallery-cleaner/releases/tag/v2.0)
+
