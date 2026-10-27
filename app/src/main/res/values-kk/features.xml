@@ -1,0 +1,54 @@
+<resources>
+<string name="filters">Сүзгілер мен альбомдар</string>
+<string name="album">Альбом</string>
+<string name="all_albums">Барлық альбом</string>
+<string name="sort_by">Сұрыптау</string>
+<string name="newest">Жаңалары</string>
+<string name="oldest">Ескілері</string>
+<string name="largest">Үлкендері</string>
+<string name="date_range">Күн аралығы</string>
+<string name="date_hint">ЖЖЖЖ-АА-КК пішімі. Бос қалдырсаңыз, барлық күн қамтылады.</string>
+<string name="from_date">Бастап</string>
+<string name="to_date">Дейін</string>
+<string name="invalid_date">Дұрыс күндерді енгізіңіз: басталуы аяқталуынан кеш болмауы тиіс.</string>
+<string name="apply_filters">Сүзгілерді қолдану</string>
+<string name="clear_filters">Сүзгілерді тазалау</string>
+<string name="sessions">Сеанстар</string>
+<string name="sessions_info">Әр сеанс шешімдерді, сүзгілерді және болдырмау тарихын бөлек сақтайды.</string>
+<string name="default_session">Негізгі</string>
+<string name="session_name">Сеанс атауы</string>
+<string name="new_session">Сеанс құру</string>
+<string name="stats">Статистика</string>
+<string name="stats_since">Әрекеттер осы нұсқадан бастап есептеледі.</string>
+<string name="photos_on_device">Қолжетімді суреттер</string>
+<string name="partial_count">Қолданбаға тек таңдалған суреттер көрінеді.</string>
+<string name="count_permission">Суреттерді санау үшін рұқсат қажет.</string>
+<string name="accessible_count">Қолданбаға қазір қолжетімді суреттер.</string>
+<string name="stats_deleted">Өшірілді</string>
+<string name="stats_swipe">Свайппен сақталды</string>
+<string name="stats_kept">Сақтау шешімі: %1$d</string>
+<string name="stats_freed">Шамамен босатылды: %1$s</string>
+<string name="activity_history">Әрекеттер тарихы</string>
+<string name="no_stats">Әзірге әрекеттер жоқ.</string>
+<string name="day_summary">Сақталды %1$d · свайппен %2$d · өшірілді %3$d · босатылды %4$s</string>
+<string name="refresh">Жаңарту</string>
+<string name="similar">Ұқсас суреттер</string>
+<string name="similar_explain">Суреттер құрылғыда салыстырылады. Ұқсастық жуық; өшірмес бұрын әр суретті тексеріңіз.</string>
+<string name="scan_progress">Тексерілді: %1$d / %2$d</string>
+<string name="no_similar">Ұқсас топтар табылмады.</string>
+<string name="similar_group">Топ %1$d</string>
+<string name="zoom_hint">Үлкейту үшін екі саусақты ашыңыз немесе екі рет түртіңіз.</string>
+<string name="reduced_motion">Анимацияны азайту</string>
+<string name="skip">Өткізіп жіберу</string>
+<string name="view_details">Сурет мәліметтері</string>
+<string name="no_matches">Сүзгілерге сай сурет жоқ.</string>
+<string name="bytes_marked">Белгіленді: %1$d сурет · %2$s</string>
+<string name="batch_next">Келесі топ: %1$d / %2$d</string>
+<string name="filter_session">Сүзгілер мен сеанстар</string>
+<string name="view_similar">Ұқсас суреттерді табу</string>
+<string name="stats_button">Статистиканы ашу</string>
+<string name="photos_skipped">Өткізілді</string>
+<string name="mark_filtered">Сүзгідегілерді белгілеу</string><string name="empty_library">Қолжетімді суреттер жоқ. Рұқсатты тексеріңіз немесе басқа дереккөзді таңдаңыз.</string><string name="day_photos">Тексеру кезіндегі қолжетімді суреттер: %1$d</string><string name="day_photos_partial">Тексеру кезіндегі таңдалған суреттер: %1$d</string></resources>
+
+
+

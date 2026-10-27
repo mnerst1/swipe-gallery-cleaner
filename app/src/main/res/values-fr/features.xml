@@ -1,0 +1,54 @@
+<resources>
+<string name="filters">Filtres et albums</string>
+<string name="album">Album</string>
+<string name="all_albums">Tous les albums</string>
+<string name="sort_by">Trier par</string>
+<string name="newest">Plus récentes</string>
+<string name="oldest">Plus anciennes</string>
+<string name="largest">Plus volumineuses</string>
+<string name="date_range">Période</string>
+<string name="date_hint">Utilisez AAAA-MM-JJ. Laissez vide pour toutes les dates.</string>
+<string name="from_date">Du</string>
+<string name="to_date">Au</string>
+<string name="invalid_date">Saisissez des dates valides, le début avant la fin.</string>
+<string name="apply_filters">Appliquer les filtres</string>
+<string name="clear_filters">Effacer les filtres</string>
+<string name="sessions">Sessions</string>
+<string name="sessions_info">Chaque session conserve ses choix, filtres et annulations.</string>
+<string name="default_session">Par défaut</string>
+<string name="session_name">Nom de la session</string>
+<string name="new_session">Créer une session</string>
+<string name="stats">Statistiques</string>
+<string name="stats_since">Les activités sont enregistrées à partir de cette version.</string>
+<string name="photos_on_device">Photos accessibles</string>
+<string name="partial_count">Seules les photos sélectionnées sont visibles.</string>
+<string name="count_permission">L’accès aux photos est nécessaire pour compter la galerie.</string>
+<string name="accessible_count">Photos actuellement accessibles à l’application.</string>
+<string name="stats_deleted">Supprimées</string>
+<string name="stats_swipe">Gardées par glissement</string>
+<string name="stats_kept">Choix de conservation : %1$d</string>
+<string name="stats_freed">Espace libéré estimé : %1$s</string>
+<string name="activity_history">Historique des activités</string>
+<string name="no_stats">Aucune activité enregistrée.</string>
+<string name="day_summary">Gardées %1$d · glissements %2$d · supprimées %3$d · libéré %4$s</string>
+<string name="refresh">Actualiser</string>
+<string name="similar">Photos similaires</string>
+<string name="similar_explain">La comparaison est effectuée sur l’appareil. La similarité est approximative ; vérifiez chaque photo avant suppression.</string>
+<string name="scan_progress">Analyse de %1$d sur %2$d</string>
+<string name="no_similar">Aucun groupe similaire trouvé.</string>
+<string name="similar_group">Groupe %1$d</string>
+<string name="zoom_hint">Pincez ou touchez deux fois pour zoomer.</string>
+<string name="reduced_motion">Réduire les animations</string>
+<string name="skip">Ignorer</string>
+<string name="view_details">Détails de la photo</string>
+<string name="no_matches">Aucune photo ne correspond aux filtres.</string>
+<string name="bytes_marked">Marquées : %1$d photos · %2$s</string>
+<string name="batch_next">Prochain lot : %1$d sur %2$d</string>
+<string name="filter_session">Filtres et sessions</string>
+<string name="view_similar">Trouver des photos similaires</string>
+<string name="stats_button">Voir les statistiques</string>
+<string name="photos_skipped">Ignorées</string>
+<string name="mark_filtered">Marquer les photos filtrées</string><string name="empty_library">Aucune photo accessible. Vérifiez les autorisations ou choisissez une autre source.</string><string name="day_photos">Photos accessibles au dernier contrôle : %1$d</string><string name="day_photos_partial">Photos sélectionnées au dernier contrôle : %1$d</string></resources>
+
+
+

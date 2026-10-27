@@ -1,0 +1,54 @@
+<resources>
+<string name="filters">Filter und Alben</string>
+<string name="album">Album</string>
+<string name="all_albums">Alle Alben</string>
+<string name="sort_by">Sortieren nach</string>
+<string name="newest">Neueste</string>
+<string name="oldest">Älteste</string>
+<string name="largest">Größte</string>
+<string name="date_range">Zeitraum</string>
+<string name="date_hint">JJJJ-MM-TT verwenden. Leer lassen für alle Daten.</string>
+<string name="from_date">Von</string>
+<string name="to_date">Bis</string>
+<string name="invalid_date">Gültige Daten eingeben; der Beginn muss vor dem Ende liegen.</string>
+<string name="apply_filters">Filter anwenden</string>
+<string name="clear_filters">Filter zurücksetzen</string>
+<string name="sessions">Sitzungen</string>
+<string name="sessions_info">Jede Sitzung speichert eigene Entscheidungen, Filter und Rückgängig-Schritte.</string>
+<string name="default_session">Standard</string>
+<string name="session_name">Sitzungsname</string>
+<string name="new_session">Sitzung erstellen</string>
+<string name="stats">Statistik</string>
+<string name="stats_since">Aktivitäten werden ab dieser Version erfasst.</string>
+<string name="photos_on_device">Zugängliche Fotos</string>
+<string name="partial_count">Die App kann nur ausgewählte Fotos sehen.</string>
+<string name="count_permission">Zum Zählen wird Fotozugriff benötigt.</string>
+<string name="accessible_count">Für die App aktuell zugängliche Fotos.</string>
+<string name="stats_deleted">Gelöscht</string>
+<string name="stats_swipe">Per Wischen behalten</string>
+<string name="stats_kept">Behalten-Entscheidungen: %1$d</string>
+<string name="stats_freed">Geschätzt freigegeben: %1$s</string>
+<string name="activity_history">Aktivitätsverlauf</string>
+<string name="no_stats">Noch keine Aktivitäten erfasst.</string>
+<string name="day_summary">Behalten %1$d · gewischt %2$d · gelöscht %3$d · freigegeben %4$s</string>
+<string name="refresh">Aktualisieren</string>
+<string name="similar">Ähnliche Fotos</string>
+<string name="similar_explain">Der Vergleich erfolgt auf dem Gerät. Ähnlichkeit ist ungefähr; prüfe jedes Foto vor dem Löschen.</string>
+<string name="scan_progress">Prüfe %1$d von %2$d</string>
+<string name="no_similar">Keine ähnlichen Gruppen gefunden.</string>
+<string name="similar_group">Gruppe %1$d</string>
+<string name="zoom_hint">Zum Vergrößern doppelt tippen oder Finger auseinanderziehen.</string>
+<string name="reduced_motion">Bewegung reduzieren</string>
+<string name="skip">Überspringen</string>
+<string name="view_details">Fotodetails</string>
+<string name="no_matches">Keine Fotos entsprechen diesen Filtern.</string>
+<string name="bytes_marked">Markiert: %1$d Fotos · %2$s</string>
+<string name="batch_next">Nächster Stapel: %1$d von %2$d</string>
+<string name="filter_session">Filter und Sitzungen</string>
+<string name="view_similar">Ähnliche Fotos suchen</string>
+<string name="stats_button">Statistik anzeigen</string>
+<string name="photos_skipped">Übersprungen</string>
+<string name="mark_filtered">Gefilterte Fotos markieren</string><string name="empty_library">Keine Fotos verfügbar. Prüfe die Berechtigung oder wähle eine andere Quelle.</string><string name="day_photos">Zugängliche Fotos bei letzter Prüfung: %1$d</string><string name="day_photos_partial">Ausgewählte Fotos bei letzter Prüfung: %1$d</string></resources>
+
+
+

@@ -1,0 +1,54 @@
+<resources>
+<string name="filters">Фильтры и альбомы</string>
+<string name="album">Альбом</string>
+<string name="all_albums">Все альбомы</string>
+<string name="sort_by">Сортировка</string>
+<string name="newest">Новые</string>
+<string name="oldest">Старые</string>
+<string name="largest">Большие</string>
+<string name="date_range">Период</string>
+<string name="date_hint">Формат ГГГГ-ММ-ДД. Пустое поле означает любую дату.</string>
+<string name="from_date">С</string>
+<string name="to_date">По</string>
+<string name="invalid_date">Введите корректные даты: начало не позже конца.</string>
+<string name="apply_filters">Применить</string>
+<string name="clear_filters">Сбросить фильтры</string>
+<string name="sessions">Сеансы</string>
+<string name="sessions_info">В каждом сеансе отдельно хранятся решения, фильтры и история отмены.</string>
+<string name="default_session">Основной</string>
+<string name="session_name">Название сеанса</string>
+<string name="new_session">Создать сеанс</string>
+<string name="stats">Статистика</string>
+<string name="stats_since">Данные учитываются начиная с этой версии.</string>
+<string name="photos_on_device">Доступные фотографии</string>
+<string name="partial_count">Приложению доступны только выбранные фотографии.</string>
+<string name="count_permission">Для подсчёта нужен доступ к фотографиям.</string>
+<string name="accessible_count">Фотографии, доступные приложению.</string>
+<string name="stats_deleted">Удалено</string>
+<string name="stats_swipe">Сохранено свайпом</string>
+<string name="stats_kept">Решений сохранить: %1$d</string>
+<string name="stats_freed">Примерно освобождено: %1$s</string>
+<string name="activity_history">История активности</string>
+<string name="no_stats">Пока нет записей.</string>
+<string name="day_summary">Сохранено %1$d · свайпом %2$d · удалено %3$d · освобождено %4$s</string>
+<string name="refresh">Обновить</string>
+<string name="similar">Похожие фотографии</string>
+<string name="similar_explain">Сравнение выполняется на устройстве. Сходство приблизительное; проверяйте фото перед удалением.</string>
+<string name="scan_progress">Проверено %1$d из %2$d</string>
+<string name="no_similar">Похожие группы не найдены.</string>
+<string name="similar_group">Группа %1$d</string>
+<string name="zoom_hint">Разведите пальцы или нажмите дважды для увеличения.</string>
+<string name="reduced_motion">Уменьшить анимацию</string>
+<string name="skip">Пропустить</string>
+<string name="view_details">Сведения о фото</string>
+<string name="no_matches">Нет фотографий по выбранным фильтрам.</string>
+<string name="bytes_marked">Отмечено: %1$d фото · %2$s</string>
+<string name="batch_next">Следующая партия: %1$d из %2$d</string>
+<string name="filter_session">Фильтры и сеансы</string>
+<string name="view_similar">Найти похожие фото</string>
+<string name="stats_button">Открыть статистику</string>
+<string name="photos_skipped">Пропущено</string>
+<string name="mark_filtered">Отметить по фильтру</string><string name="empty_library">Нет доступных фотографий. Проверьте разрешение или выберите другой источник.</string><string name="day_photos">Доступно фото на момент проверки: %1$d</string><string name="day_photos_partial">Выбрано фото на момент проверки: %1$d</string></resources>
+
+
+

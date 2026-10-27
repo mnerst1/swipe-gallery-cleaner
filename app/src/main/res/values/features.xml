@@ -1,0 +1,54 @@
+<resources>
+<string name="filters">Filters &amp; albums</string>
+<string name="album">Album</string>
+<string name="all_albums">All albums</string>
+<string name="sort_by">Sort by</string>
+<string name="newest">Newest</string>
+<string name="oldest">Oldest</string>
+<string name="largest">Largest</string>
+<string name="date_range">Date range</string>
+<string name="date_hint">Use YYYY-MM-DD. Leave blank for any date.</string>
+<string name="from_date">From</string>
+<string name="to_date">To</string>
+<string name="invalid_date">Enter valid dates with the start before the end.</string>
+<string name="apply_filters">Apply filters</string>
+<string name="clear_filters">Clear filters</string>
+<string name="sessions">Sessions</string>
+<string name="sessions_info">Each named session keeps its own decisions, filters and undo history.</string>
+<string name="default_session">Default</string>
+<string name="session_name">Session name</string>
+<string name="new_session">Create session</string>
+<string name="stats">Statistics</string>
+<string name="stats_since">Activity is recorded from this version onward.</string>
+<string name="photos_on_device">Accessible photos</string>
+<string name="partial_count">Only selected photos are visible to the app.</string>
+<string name="count_permission">Photo access is needed to count the library.</string>
+<string name="accessible_count">Photos currently accessible to the app.</string>
+<string name="stats_deleted">Deleted</string>
+<string name="stats_swipe">Kept by swipe</string>
+<string name="stats_kept">Kept decisions: %1$d</string>
+<string name="stats_freed">Estimated space freed: %1$s</string>
+<string name="activity_history">Activity over time</string>
+<string name="no_stats">No activity recorded yet.</string>
+<string name="day_summary">Kept %1$d · swipe keeps %2$d · deleted %3$d · freed %4$s</string>
+<string name="refresh">Refresh</string>
+<string name="similar">Similar photos</string>
+<string name="similar_explain">Images are compared on this device. Similarity is approximate; inspect every photo before deletion.</string>
+<string name="scan_progress">Scanning %1$d of %2$d</string>
+<string name="no_similar">No similar groups found.</string>
+<string name="similar_group">Group %1$d</string>
+<string name="zoom_hint">Pinch or double-tap to zoom.</string>
+<string name="reduced_motion">Reduce motion</string>
+<string name="skip">Skip</string>
+<string name="view_details">Photo details</string>
+<string name="no_matches">No photos match these filters.</string>
+<string name="bytes_marked">Marked: %1$d photos · %2$s</string>
+<string name="batch_next">Next batch: %1$d of %2$d</string>
+<string name="filter_session">Filters &amp; sessions</string>
+<string name="view_similar">Find similar photos</string>
+<string name="stats_button">View statistics</string>
+<string name="photos_skipped">Skipped</string>
+<string name="mark_filtered">Mark filtered photos</string><string name="empty_library">No photos are accessible. Check your photo permission or select another source.</string><string name="day_photos">Accessible photos at last check: %1$d</string><string name="day_photos_partial">Selected photos at last check: %1$d</string></resources>
+
+
+
